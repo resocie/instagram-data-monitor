@@ -1,11 +1,9 @@
 decorator==4.0.11
 httplib2==0.10.3
 imageio==2.1.2
-InstagramAPI==1.0.2
 moviepy==0.2.3.2
 numpy==1.14.1
 Pillow==5.0.0
--e git+https://github.com/dend/python-instagram@05dd8e03d329acc1802e54c7bb4d0b8d2dab7637#egg=python_instagram
 requests==2.11.1
 requests-toolbelt==0.7.0
 selenium==3.9.0
