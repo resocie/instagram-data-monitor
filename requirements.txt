@@ -1,9 +1,14 @@
-certifi==2018.1.18
-chardet==3.0.4
-idna==2.6
-oauthlib==2.0.6
-requests==2.18.4
-requests-oauthlib==0.8.0
+decorator==4.0.11
+httplib2==0.10.3
+imageio==2.1.2
+InstagramAPI==1.0.2
+moviepy==0.2.3.2
+numpy==1.14.1
+Pillow==5.0.0
+-e git+https://github.com/dend/python-instagram@05dd8e03d329acc1802e54c7bb4d0b8d2dab7637#egg=python_instagram
+requests==2.11.1
+requests-toolbelt==0.7.0
+selenium==3.9.0
+simplejson==3.13.2
 six==1.11.0
-tweepy==3.5.0
-urllib3==1.22
+tqdm==4.11.2
